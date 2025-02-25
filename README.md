@@ -1,5 +1,5 @@
 ##
-git clone https://github.com/phamkhanhbk/traefik.git
+git clone https://github.com/nhoxyeeu/traefik.git
 ##
 cd traefik
 ##
